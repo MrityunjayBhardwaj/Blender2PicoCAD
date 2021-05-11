@@ -1,4 +1,4 @@
-# Plugin: Blender to Pico CAD
+# 🔌 Plugin: Blender to Pico CAD
 
 A simple plugin that export blender models as picoCAD model .txt file
 
